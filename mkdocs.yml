@@ -1,0 +1,95 @@
+site_name: Linux im Alltag - Dokumentation
+site_url: https://docs.linux-im-alltag.de/
+copyright: Copyright &copy; 2024 Patrick Fraley
+theme:
+  name: material
+  language: de
+  icon: images/logo.svg
+  logo: images/logo.svg
+  favicon: images/logo.svg
+  custom_dir: overrides
+  palette:
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - search.suggest
+    - content.code.copy
+extra_css:
+  - stylesheets/extra.css
+extra:
+  consent:
+    title: Keekse gefällig? 
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/pwfraley
+      name: GitHub
+plugins:
+  - search
+  - blog
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      use_pygments: true
+      pygments_lang_class: true
+      anchor_linenums: true
+      linenums: true
+      line_spans: __span
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+nav:
+  - 'Home': index.md
+  - 'Linux Grundlagen':
+    - 'Start': linux/grundlagen/index.md
+    - 'Distributionen':
+      - 'Was ist eine Distribution?': linux/grundlagen/distributionen/index.md
+      - 'Fedora': linux/grundlagen/distributionen/fedora.md
+      - 'Debian': linux/grundlagen/distributionen/debian.md
+    - 'Desktops':
+      - 'Was ist ein Desktop-Environment?': linux/grundlagen/desktops/index.md
+      - 'Gnome': linux/grundlagen/desktops/gnome.md
+      - 'KDE': linux/grundlagen/desktops/kde.md
+      - 'XFCE': linux/grundlagen/desktops/xfce.md
+    - 'Software':
+      - 'Start': linux/grundlagen/software/index.md
+      - 'Pakete': linux/grundlagen/software/pakete.md
+      - 'Flatpak': linux/grundlagen/software/flatpak.md
+      - 'Snap': linux/grundlagen/software/snap.md
+      - 'AppImage': linux/grundlagen/software/appimage.md
+  - 'Linux im Alltag - Arbeitsplatz':
+    - 'Der LIA-Arbeitsplatz': lia-arbeitsplatz/index.md
+    - 'Grundlagen':
+      - 'Start': lia-arbeitsplatz/grundlagen/index.md
+      - 'Fedora Workstation': lia-arbeitsplatz/grundlagen/fedora-workstation.md
+      - 'Debian': lia-arbeitsplatz/grundlagen/debian.md
+      - 'Gnome Desktop': lia-arbeitsplatz/grundlagen/gnome-desktop.md
+      - 'Standard Software': lia-arbeitsplatz/grundlagen/standard-software.md
+    - 'Rollen/Aufgaben':
+      - 'Start': lia-arbeitsplatz/rollen-aufgaben/index.md
+      - 'Software Entwicklung':
+        - 'Start': lia-arbeitsplatz/rollen-aufgaben/software-entwicklung/index.md
+      - 'Büroarbeit':
+        - 'Start': lia-arbeitsplatz/rollen-aufgaben/buero/index.md
+      - 'Kreativität':
+        - 'Start': lia-arbeitsplatz/rollen-aufgaben/kreativitaet/index.md
+      - 'Gaming':
+        - 'Start': lia-arbeitsplatz/rollen-aufgaben/gaming/index.md
+  - 'Über': about.md
+

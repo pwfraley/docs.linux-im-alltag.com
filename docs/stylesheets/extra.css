@@ -1,0 +1,39 @@
+:root {
+  --md-primary-fg-color: #40386b;
+  --md-primary-fg-color--light: #23272c;
+  --md-primary-fg-color--dark: #23272c;
+}
+
+[data-md-color-scheme="youtube"] {
+  --md-primary-fg-color:        #EE0F0F;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+}
+
+.md-tabs {
+  line-height: 0.6;
+}
+
+.md-tabs__item {
+  height: 2rem;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.md-tabs__item--active {
+  background-color: rgb(30, 33, 41);
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom: 2px dotted #393260;
+}
+
+main a {
+  color: #7274a7 !important;
+  text-decoration: underline !important;
+}
+
+main a:hover {
+  color: #9596c6 !important;
+}
+
