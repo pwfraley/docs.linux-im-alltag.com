@@ -2,7 +2,9 @@
 
 Der LIA Arbeitsplatz basiert auf der Fedora Workstation Edition.  Der Arbeitsplatz nutzt den Gnome Desktop mit Erweiterungen die wichtige Funktionen dem Gnome Desktop hinzufügen.
 
-![LIA - Arbeitsplatz](img/lia-arbeitsplatz.gif){ loading=lazy }
+## LIAA
+![LIA - Arbeitsplatz](img/FedoraGnomeLIAA.png){data-gallery="LIAA"}
+![LIA - Arbeitsplatz](img/lia-arbeitsplatz.gif){data-gallery="LIAA"}
 
 ## Genutzte Erweiterungen
 
