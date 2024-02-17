@@ -5,13 +5,13 @@ Der LIA Arbeitsplatz basiert auf der Fedora Workstation Edition.  Der Arbeitspla
 ## LIAA
 
 ### Windows
-![LIA - Arbeitsplatz](img/FedoraGnomeLIAA.png){data-gallery="LIAA"}
+![LIA - Arbeitsplatz](img/LIAA-Windows.png){data-gallery="LIAA"}
 
 ### Mac OS X
-![LIA - Arbeitsplatz](img/lia-arbeitsplatz.gif){data-gallery="LIAA"}
+![LIA - Arbeitsplatz](img/LIAA-Mac.png){data-gallery="LIAA"}
 
 ### Custom
-![LIA - Arbeitsplatz](img/FedoraGnomeLIAA.png){data-gallery="LIAA"}
+![LIA - Arbeitsplatz](img/LIAA-Custom.png){data-gallery="LIAA"}
 
 ## Genutzte Erweiterungen
 
