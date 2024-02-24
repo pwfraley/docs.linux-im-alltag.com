@@ -1,3 +1,5 @@
+![Distributionen](img/distros.png){data-gallery="distros"}
+
 ## Linux-Distributionen: Ein Tor zur Welt der offenen Software
 
 Linux, ein Begriff, der in der Welt der Informationstechnologie weit verbreitet ist, steht nicht nur für ein Betriebssystem, sondern für eine Philosophie der Offenheit, der Freiheit und der Gemeinschaft. Im Herzen dieser Bewegung stehen die sogenannten Linux-Distributionen – maßgeschneiderte Sammlungen von Software, die auf dem Linux-Kernel basieren und es jedem ermöglichen, ein System nach seinen Bedürfnissen zu gestalten. In diesem Artikel erkunden wir, was Linux-Distributionen sind, wie sie sich voneinander unterscheiden, und warum sie eine so wichtige Rolle in der Welt der Computertechnologie spielen.
