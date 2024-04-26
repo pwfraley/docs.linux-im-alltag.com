@@ -3,13 +3,13 @@
 ## Hardware-Anforderungen
 
 ### Minimale Anforderungen
-- CPU: Intel der 3ten Generation
+- CPU: Intel der 3ten Generation, AMD Ryzen 3
 - RAM: >= 8GB
 - Grafik: 1366x768 (HD)
 - Festplatte: >= 50GB
 
 ### Optimal
-- CPU: Intel 8te Generation oder neuer, AMD Ryzen
+- CPU: Intel 8te Generation oder neuer, AMD Ryzen 5 oder neuer
 - RAM: >= 16GB
 - Grafik: >= 1920x1080 (UHD)
 - Festplatte: SSD/NVME >= 500GB
