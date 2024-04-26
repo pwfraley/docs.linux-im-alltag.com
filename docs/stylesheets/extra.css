@@ -1,6 +1,6 @@
 :root,
 [data-md-color-scheme=slate] {
-  --md-primary-fg-color: #1f2937;
+  --md-primary-fg-color: #2c3c4e;
   --md-primary-fg-color--light: #23272c;
   --md-primary-fg-color--dark: #23272c;
 }
@@ -32,11 +32,11 @@
 
 .md-tabs__item--active {
   /* background-color: rgba(30, 33, 41, 0.75); */
-  background-color: rgb(46, 61, 82);
+  background-color: #1e2129;
   box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  border-bottom: 2px dotted #1c2531;
+  /* border-bottom: 2px dotted rgba(33,33,33,0.75); */
 }
 
 main a {
