@@ -1,5 +1,19 @@
 # Grundlagen des LIA-Arbeitsplatzes
 
+## Hardware-Anforderungen
+
+### Minimale Anforderungen
+- CPU: Intel der 3ten Generation
+- RAM: >= 4GB
+- Grafik: 1366x768 (HD)
+- Festplatte: >= 50GB
+
+### Optimal
+- CPU: Intel 8te Generation oder neuer, AMD Ryzen
+- RAM: >= 8GB
+- Grafik: >= 1920x1080 (UHD)
+- Festplatte: SSD/NVME >= 512GB
+
 ## Unterstütze Distributionen
 Der LIA-Arbeitsplatz unterstützt zur Zeit die aktuelle Fedora Workstation Edition und Debian 12 "Bookworm".
 
