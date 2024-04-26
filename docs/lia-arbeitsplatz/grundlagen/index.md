@@ -11,8 +11,8 @@ Den LIA-Arbeitsplatz gibt es für zwei Distributionen: Fedora und Debian.  Um zu
     ```mermaid
     graph TB
     B{Unterstütztung neuerer Hardware?};
-    B -->|Ja| C[Fedora ist richtig für dich];
-    B -->|Nein| E[Debian ist richtig für dich];
+    B -->|Wichtig| C[Fedora ist richtig für dich];
+    B -->|Unwichtig| E[Debian ist richtig für dich];
     ```
 
 - Neueste Software
@@ -21,8 +21,8 @@ Den LIA-Arbeitsplatz gibt es für zwei Distributionen: Fedora und Debian.  Um zu
     ```mermaid
     graph TB
     B{Aktuellste Software wird benötigt?};
-    B -->|Ja| C[Fedora ist richtig für dich];
-    B -->|Nein| E[Debian ist richtig für dich];
+    B -->|Wichtig| C[Fedora ist richtig für dich];
+    B -->|Unwichtig| E[Debian ist richtig für dich];
     ```
 
 </div>
