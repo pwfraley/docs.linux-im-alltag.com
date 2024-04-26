@@ -31,19 +31,20 @@
 }
 
 .md-tabs__item--active {
-  background-color: rgba(30, 33, 41, 0.75);
+  /* background-color: rgba(30, 33, 41, 0.75); */
+  background-color: rgb(46, 61, 82);
   box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  border-bottom: 2px dotted #3e516d;
+  border-bottom: 2px dotted #1c2531;
 }
 
 main a {
-  color: #278ccc !important;
+  color: #506b8f !important;
   text-decoration: underline !important;
 }
 
 main a:hover {
-  color: #a5d2ee !important;
+  color: #607da6 !important;
 }
 
