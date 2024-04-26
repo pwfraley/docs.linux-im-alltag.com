@@ -48,3 +48,8 @@ main a:hover {
   color: #607da6 !important;
 }
 
+.tabbed-labels label a {
+  color: rgba(226, 228, 233, 0.82) !important;
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+}
