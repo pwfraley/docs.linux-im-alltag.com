@@ -25,6 +25,7 @@ theme:
     - navigation.instant.progress
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.top
     - search.suggest
     - content.code.copy
 extra_css:
