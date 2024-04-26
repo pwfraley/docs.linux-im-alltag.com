@@ -1,12 +1,16 @@
-:root {
+:root,
+[data-md-color-scheme=slate] {
   --md-primary-fg-color: #1f2937;
   --md-primary-fg-color--light: #23272c;
   --md-primary-fg-color--dark: #23272c;
-  --md-footer-bg-color: #1f2937;
+}
+
+[data-md-color-scheme=default] {
+  --md-footer-bg-color: ##1c2531;
   --md-footer-fg-color: #a5a5a5;
-  --md-footer-bg-color--dark: #1f2937;
+  --md-footer-bg-color--dark: #1c2531;
   --md-footer-fg-color--dark: #a5a5a5;
-  --md-footer-bg-color--light: #1f2937;
+  --md-footer-bg-color--light: #1c2531;
   --md-footer-fg-color--light: #a5a5a5;
 }
 
