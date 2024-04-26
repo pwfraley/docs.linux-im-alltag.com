@@ -5,5 +5,7 @@ Diese Repository enthält die Dokumentation für docs.linux-im-alltag.com.
 ## Requirements
 
 - mkdocs
-- material for mkdocs
-- material for mkdocs Plugins
+- mkdocs-git-authors-plugin
+- mkdocs-git-revision-date-localized-plugin
+- mkdocs-glightbox
+- mkdocs-material
