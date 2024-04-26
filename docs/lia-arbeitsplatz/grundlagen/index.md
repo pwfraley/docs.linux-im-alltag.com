@@ -12,7 +12,7 @@
 - CPU: Intel der 3ten Generation, AMD Ryzen 3
 - RAM: >= 8GB
 - Grafik: 1366x768 (HD)
-- Festplatte: >= 50GB
+- Festplatte: SSD >= 50GB
 
 ### Optimal
 - CPU: Intel 8te Generation oder neuer, AMD Ryzen 5 oder neuer
