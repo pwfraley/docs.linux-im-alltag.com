@@ -1,6 +1,6 @@
 site_name: Linux im Alltag - Dokumentation
 site_url: https://docs.linux-im-alltag.de/
-copyright: Copyright &copy; 2024 Patrick Fraley
+copyright: Copyright &copy; 2024 Patrick W. Fraley
 repo_url: https://github.com/pwfraley/docs.linux-im-alltag.com
 theme:
   name: material
@@ -54,8 +54,8 @@ plugins:
       shadow: true
 markdown_extensions:
   - attr_list
-  - md_in_html
   - admonition
+  - md_in_html
   - pymdownx.details
   - pymdownx.highlight:
       use_pygments: true

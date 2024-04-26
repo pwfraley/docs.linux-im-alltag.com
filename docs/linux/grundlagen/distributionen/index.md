@@ -1,4 +1,6 @@
+<figure markdown="span" style="background: #2c3c4e">
 ![Distributionen](img/distros.png){data-gallery="distros"}
+</figure>
 
 ## Linux-Distributionen: Ein Tor zur Welt der offenen Software
 
