@@ -1,3 +1,3 @@
-## Debian Gnome
+## Download
 
 [Debian](https://www.debian.org/)
