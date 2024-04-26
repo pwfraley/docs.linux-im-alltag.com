@@ -29,3 +29,11 @@ Den LIA-Arbeitsplatz gibt es für zwei Distributionen: Fedora und Debian.  Um zu
     ```
 
 </div>
+
+## Unterstützte Desktops
+Der LIA-Arbeitsplatz unterstützt zur Zeit nur den Gnome-Desktop.  Langfristig ist es geplant auch den XFCE Desktop zu unterstützen um auch auf älteren Geräten performant zu laufen.
+
+### Gnome
+
+
+### XFCE (maybe comming soon)
