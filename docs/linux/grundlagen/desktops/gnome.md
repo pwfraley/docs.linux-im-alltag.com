@@ -1,3 +1,5 @@
+![LIA - Arbeitsplatz](img/gnome.png){data-gallery="Gnome"}
+
 GNOME ist eines der populärsten Desktop-Environments in der Linux-Welt und hat sich durch seine klare Designphilosophie und Benutzerfreundlichkeit einen Namen gemacht. Es zielt darauf ab, Einfachheit und Zugänglichkeit für alle Benutzer zu bieten, von Anfängern bis hin zu erfahrenen Nutzern. Wie bei jeder Software gibt es jedoch sowohl Stärken als auch Schwächen, die bei der Bewertung von GNOME berücksichtigt werden müssen.
 
 ## Stärken
