@@ -1,3 +1,5 @@
+![LIA - Arbeitsplatz](img/kde.png){data-gallery="KDE"}
+
 KDE Plasma ist ein weiteres führendes Desktop-Environment in der Linux-Gemeinschaft, das für seine Flexibilität, Anpassbarkeit und visuelle Anziehungskraft bekannt ist. Es ist das Produkt der KDE-Community, die eine breite Palette von Anwendungen und Frameworks für verschiedene Plattformen entwickelt. KDE Plasma strebt danach, ein modernes, elegantes und komfortables Benutzererlebnis zu bieten, ohne dabei die Leistung zu beeinträchtigen. Wie jedes Softwareprodukt hat auch KDE Plasma seine Stärken und Schwächen.
 
 ## Stärken

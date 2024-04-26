@@ -1,3 +1,5 @@
+![LIA - Arbeitsplatz](img/xfce.png){data-gallery="XFCE"}
+
 XFCE ist ein leichtgewichtiges Desktop-Environment, das für seine Schnelligkeit, Effizienz und Modularität bekannt ist. Ursprünglich als eine schnellere und weniger ressourcenintensive Alternative zu GNOME entwickelt, hat sich XFCE zu einer eigenständigen und voll ausgestatteten Desktop-Umgebung entwickelt, die eine Balance zwischen Funktionalität und Ressourcenschonung bietet. Trotz seiner Leichtigkeit bietet XFCE eine attraktive und benutzerfreundliche Oberfläche, die sowohl für neue als auch für erfahrene Linux-Benutzer geeignet ist. Wie bei jeder Software gibt es jedoch sowohl Stärken als auch Schwächen, die berücksichtigt werden müssen.
 
 ## Stärken
