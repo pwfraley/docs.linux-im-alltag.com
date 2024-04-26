@@ -1,5 +1,11 @@
 # Grundlagen des LIA-Arbeitsplatzes
 
+!!! warning "Eure Verantwortung"
+
+    Ich bin nicht für Probleme oder Schäden verantwortlich, die durch die Installation von Linux und dem Linux im Alltag Arbeitsplatz entstehen können.
+    Bevor du also Linux installierst, stelle sicher dass du eine aktuelle Sicherung deiner Dateien hast.
+
+
 ## Hardware-Anforderungen
 
 ### Minimale Anforderungen
