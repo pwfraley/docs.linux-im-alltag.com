@@ -1,6 +1,6 @@
-## Fedora 39 Workstation: Ein Blick auf das aktuelle Linux
+## Fedora Workstation: Ein Blick auf das aktuelle Linux
 
-Fedora, bekannt für seine Innovationen und die enge Zusammenarbeit mit der Linux-Community, hat mit seiner Version 39 Workstation erneut bewiesen, warum es als eines der führenden Betriebssysteme für Entwickler und Technikbegeisterte gilt. Fedora 39 Workstation bietet eine frische und moderne Linux-Erfahrung, die sowohl für Neulinge als auch für erfahrene Benutzer attraktiv ist. In diesem Review werfen wir einen Blick auf die neuesten Funktionen, Verbesserungen und natürlich die Vor- und Nachteile dieser Distribution.
+Fedora, bekannt für seine Innovationen und die enge Zusammenarbeit mit der Linux-Community, hat mit seiner Version Workstation erneut bewiesen, warum es als eines der führenden Betriebssysteme für Entwickler und Technikbegeisterte gilt. Fedora Workstation bietet eine frische und moderne Linux-Erfahrung, die sowohl für Neulinge als auch für erfahrene Benutzer attraktiv ist. In diesem Review werfen wir einen Blick auf die neuesten Funktionen, Verbesserungen und natürlich die Vor- und Nachteile dieser Distribution.
 
 ### Neuerungen und Verbesserungen
 
