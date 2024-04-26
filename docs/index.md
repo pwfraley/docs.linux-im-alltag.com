@@ -21,4 +21,3 @@ Da unser Alltag von der Arbeit bestimmt wird, liegt der Schwerpunkt hier, aber a
     Hier lernst du wie du dir deinen Computer mit Linux zu einen vollwertigen Arbeitsplatz einrichtest.
 
 </div>
-
