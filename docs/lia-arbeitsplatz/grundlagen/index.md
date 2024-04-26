@@ -1,6 +1,9 @@
 # Grundlagen des LIA-Arbeitsplatzes
 
-## Welche Distribution ist richtig für mich?
+## Unterstütze Distributionen
+Der LIA-Arbeitsplatz unterstützt zur Zeit die aktuelle Fedora Workstation Edition und Debian 12 "Bookworm".
+
+### Welche Distribution ist richtig für mich?
 Den LIA-Arbeitsplatz gibt es für zwei Distributionen: Fedora und Debian.  Um zu entscheiden welche von diesen beiden Distributionen die richtige für dich ist, musst du nur die folgenden Fragen beantworten:
 
 <div class="grid cards" markdown>
