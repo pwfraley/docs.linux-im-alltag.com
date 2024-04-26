@@ -94,7 +94,7 @@ nav:
     - 'Grundlagen':
       - 'Start': lia-arbeitsplatz/grundlagen/index.md
       - 'Fedora Workstation': lia-arbeitsplatz/grundlagen/fedora-workstation.md
-      - 'Debian': lia-arbeitsplatz/grundlagen/debian.md
+      - 'Debian Gnome': lia-arbeitsplatz/grundlagen/debian.md
       - 'Gnome Desktop': lia-arbeitsplatz/grundlagen/gnome-desktop.md
       - 'Standard Software': lia-arbeitsplatz/grundlagen/standard-software.md
     - 'Rollen/Aufgaben':
