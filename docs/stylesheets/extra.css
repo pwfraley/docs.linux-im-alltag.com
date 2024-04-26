@@ -1,5 +1,5 @@
 :root {
-  --md-primary-fg-color: #40386b;
+  --md-primary-fg-color: #1f2937;
   --md-primary-fg-color--light: #23272c;
   --md-primary-fg-color--dark: #23272c;
 }
@@ -29,11 +29,11 @@
 }
 
 main a {
-  color: #7274a7 !important;
+  color: #278ccc !important;
   text-decoration: underline !important;
 }
 
 main a:hover {
-  color: #9596c6 !important;
+  color: #a5d2ee !important;
 }
 
