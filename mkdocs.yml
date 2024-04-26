@@ -81,6 +81,8 @@ nav:
       - 'Flatpak': linux/grundlagen/software/flatpak.md
       - 'Snap': linux/grundlagen/software/snap.md
       - 'AppImage': linux/grundlagen/software/appimage.md
+    - 'Hardware':
+      - 'Start': linux/grundlagen/hardware/index.md
   - 'Linux im Alltag - Arbeitsplatz':
     - 'Der LIA-Arbeitsplatz': lia-arbeitsplatz/index.md
     - 'Grundlagen':
