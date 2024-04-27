@@ -27,6 +27,6 @@ XFCE kommt mit weniger vorinstallierten Anwendungen und Funktionen als umfangrei
 ### 3. Gelegentliche Herausforderungen bei der Konfiguration
 Obwohl die Anpassung ein Vorteil von XFCE ist, kann die Konfiguration bestimmter Aspekte (wie z.B. das Einrichten von HiDPI-Displays oder das Feintuning von Fensterverwaltungseinstellungen) manchmal weniger intuitiv sein als bei anderen Desktop-Umgebungen.
 
-## Fazit
+## :fontawesome-solid-file-contract: Fazit
 
 XFCE ist eine hervorragende Wahl für Benutzer, die Wert auf Geschwindigkeit, Effizienz und Einfachheit legen. Es kombiniert Leichtigkeit mit einer ausreichenden Anpassbarkeit, um den Bedürfnissen vieler Benutzer gerecht zu werden, ohne unnötige Ressourcen zu verbrauchen. Während es in Bezug auf visuelle Attraktivität und sofort verfügbare Funktionen hinter einigen seiner Konkurrenten zurückbleiben mag, macht seine Stabilität und Zuverlässigkeit es zu einer soliden Wahl für diejenigen, die eine funktionale und unkomplizierte Desktop-Umgebung suchen.

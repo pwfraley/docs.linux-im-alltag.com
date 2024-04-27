@@ -27,6 +27,6 @@ In seiner Standardkonfiguration bietet GNOME weniger Möglichkeiten zur Anpassun
 ### 3. Lernkurve für Benutzer, die von anderen Desktops wechseln
 Benutzer, die von anderen Desktop-Environments oder Betriebssystemen zu GNOME wechseln, könnten eine Eingewöhnungszeit benötigen, um sich an die einzigartige Art und Weise zu gewöhnen, wie GNOME Arbeitsabläufe und Desktop-Interaktionen handhabt. Die Unterschiede in der Benutzeroberfläche und den Standardtastenkombinationen können anfangs verwirrend sein.
 
-## Fazit
+## :fontawesome-solid-file-contract: Fazit
 
 GNOME ist ein leistungsstarkes und benutzerfreundliches Desktop-Environment, das eine saubere und einfache Benutzeroberfläche mit der Möglichkeit zur Erweiterung und Anpassung kombiniert. Während es für seine Eleganz und Zugänglichkeit gelobt wird, könnten sein Ressourcenverbrauch und die anfängliche Lernkurve für einige Benutzer Herausforderungen darstellen. Letztendlich hängt die Entscheidung, ob GNOME das richtige Desktop-Environment für jemanden ist, von den persönlichen Präferenzen, der Hardware und den spezifischen Anforderungen des Benutzers ab.

@@ -27,6 +27,6 @@ Obwohl KDE Plasma im Allgemeinen stabil läuft, können die vielen Anpassungsopt
 ### 3. Lernkurve
 Die Komplexität und der Funktionsumfang von KDE Plasma können eine steilere Lernkurve mit sich bringen, besonders im Vergleich zu einfacheren Desktop-Umgebungen. Neue Benutzer müssen möglicherweise Zeit investieren, um sich mit den verschiedenen Aspekten und Möglichkeiten von Plasma vertraut zu machen.
 
-## Fazit
+## :fontawesome-solid-file-contract: Fazit
 
 KDE Plasma ist eine leistungsstarke und schöne Desktop-Umgebung, die eine beispiellose Anpassbarkeit und ein umfangreiches Ökosystem an integrierten Anwendungen bietet. Es ist ideal für Benutzer, die ihre Arbeitsumgebung bis ins kleinste Detail anpassen möchten und bereit sind, sich mit der Komplexität auseinanderzusetzen. Trotz einiger potenzieller Herausforderungen in Bezug auf die Benutzerfreundlichkeit und gelegentliche Instabilitäten bietet KDE Plasma eine der reichhaltigsten und visuell ansprechendsten Erfahrungen auf dem Linux-Desktop.
