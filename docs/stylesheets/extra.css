@@ -1,17 +1,27 @@
 :root,
 [data-md-color-scheme=slate] {
+  --md-default-fg-color: #ccc;
+  --md-default-fg-color--light: #eee;
   --md-primary-fg-color: #2c3c4e;
   --md-primary-fg-color--light: #23272c;
   --md-primary-fg-color--dark: #23272c;
+  --md-typeset-a-color: #607da6;
+  --md-typeset-a-color--light: #3f5777;
+  --md-typeset-a-color--dark: #607da6;
+  --md-accent-fg-color: #607da6;
 }
 
 [data-md-color-scheme=default] {
-  --md-footer-bg-color: ##1c2531;
+  --md-footer-bg-color: #1c2531;
   --md-footer-fg-color: #a5a5a5;
   --md-footer-bg-color--dark: #1c2531;
   --md-footer-fg-color--dark: #a5a5a5;
   --md-footer-bg-color--light: #1c2531;
   --md-footer-fg-color--light: #a5a5a5;
+  --md-typeset-a-color: #3f5777;
+  --md-typeset-a-color--light: #3f5777;
+  --md-typeset-a-color--dark: #607da6;
+  --md-accent-fg-color: #607da6;
 }
 
 [data-md-color-scheme="youtube"] {
@@ -39,13 +49,13 @@
   /* border-bottom: 2px dotted rgba(33,33,33,0.75); */
 }
 
-main a {
-  color: #506b8f !important;
+/* main a {
+  color: #607da6 !important;
 }
 
 main a:hover {
-  color: #607da6 !important;
-}
+  color: #506b8f !important;
+} */
 
 .tabbed-labels label a {
   color: rgba(226, 228, 233, 0.82) !important;
