@@ -2,7 +2,7 @@
 
 GNOME ist eines der populärsten Desktop-Environments in der Linux-Welt und hat sich durch seine klare Designphilosophie und Benutzerfreundlichkeit einen Namen gemacht. Es zielt darauf ab, Einfachheit und Zugänglichkeit für alle Benutzer zu bieten, von Anfängern bis hin zu erfahrenen Nutzern. Wie bei jeder Software gibt es jedoch sowohl Stärken als auch Schwächen, die bei der Bewertung von GNOME berücksichtigt werden müssen.
 
-## Stärken
+## :fontawesome-solid-thumbs-up: Stärken
 
 ### 1. Benutzerfreundlichkeit und Einfachheit
 GNOME ist für seine saubere und einfache Benutzeroberfläche bekannt. Die Entwickler haben großen Wert darauf gelegt, eine intuitive und leicht verständliche Umgebung zu schaffen. Dies macht es besonders attraktiv für neue Linux-Benutzer, die möglicherweise von komplexeren Desktop-Environments abgeschreckt werden.
@@ -16,7 +16,7 @@ GNOME hat eine große und aktive Community, die ständig daran arbeitet, das Des
 ### 4. Integration und Konsistenz
 GNOME bietet eine hervorragende Integration mit den GNOME-Anwendungen, die speziell für dieses Environment entwickelt wurden. Dies führt zu einer konsistenten und nahtlosen Benutzererfahrung, bei der Anwendungen und Systemeinstellungen gut miteinander harmonieren.
 
-## Schwächen
+## :fontawesome-solid-thumbs-down: Schwächen
 
 ### 1. Ressourcenverbrauch
 Einer der häufigsten Kritikpunkte an GNOME ist sein relativ hoher Ressourcenverbrauch, insbesondere im Vergleich zu leichtgewichtigeren Alternativen wie XFCE oder LXDE. Benutzer mit älterer oder begrenzter Hardware könnten feststellen, dass GNOME nicht so flüssig läuft, wie sie es wünschen.

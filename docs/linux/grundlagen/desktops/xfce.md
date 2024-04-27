@@ -2,7 +2,7 @@
 
 XFCE ist ein leichtgewichtiges Desktop-Environment, das für seine Schnelligkeit, Effizienz und Modularität bekannt ist. Ursprünglich als eine schnellere und weniger ressourcenintensive Alternative zu GNOME entwickelt, hat sich XFCE zu einer eigenständigen und voll ausgestatteten Desktop-Umgebung entwickelt, die eine Balance zwischen Funktionalität und Ressourcenschonung bietet. Trotz seiner Leichtigkeit bietet XFCE eine attraktive und benutzerfreundliche Oberfläche, die sowohl für neue als auch für erfahrene Linux-Benutzer geeignet ist. Wie bei jeder Software gibt es jedoch sowohl Stärken als auch Schwächen, die berücksichtigt werden müssen.
 
-## Stärken
+## :fontawesome-solid-thumbs-up: Stärken
 
 ### 1. Leichtgewichtig und Schnell
 Eine der größten Stärken von XFCE ist seine Leichtigkeit. Es ist für seine Fähigkeit bekannt, auf älterer oder begrenzter Hardware gut zu laufen, ohne dabei an Geschwindigkeit oder Reaktionsfähigkeit einzubüßen. Dies macht es zu einer ausgezeichneten Wahl für Benutzer, die ein schnelles und effizientes System wünschen.
@@ -16,7 +16,7 @@ XFCE ist bekannt für seine Stabilität und Zuverlässigkeit. Es folgt einem Ent
 ### 4. Einfachheit und Benutzerfreundlichkeit
 XFCE bietet eine einfache und intuitive Benutzeroberfläche, die es neuen Benutzern leicht macht, sich zurechtzufinden, ohne überwältigt zu werden. Es behält klassische Desktop-Metaphern bei, die es Benutzern ermöglichen, ohne steile Lernkurve produktiv zu sein.
 
-## Schwächen
+## :fontawesome-solid-thumbs-down: Schwächen
 
 ### 1. Weniger visuell ansprechend
 Im Vergleich zu anderen modernen Desktop-Umgebungen wie GNOME oder KDE Plasma kann XFCE weniger visuell ansprechend erscheinen. Standardmäßig bietet es ein eher konservatives Design, das einige Benutzer als veraltet empfinden könnten.

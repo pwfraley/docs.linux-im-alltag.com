@@ -2,7 +2,7 @@
 
 KDE Plasma ist ein weiteres führendes Desktop-Environment in der Linux-Gemeinschaft, das für seine Flexibilität, Anpassbarkeit und visuelle Anziehungskraft bekannt ist. Es ist das Produkt der KDE-Community, die eine breite Palette von Anwendungen und Frameworks für verschiedene Plattformen entwickelt. KDE Plasma strebt danach, ein modernes, elegantes und komfortables Benutzererlebnis zu bieten, ohne dabei die Leistung zu beeinträchtigen. Wie jedes Softwareprodukt hat auch KDE Plasma seine Stärken und Schwächen.
 
-## Stärken
+## :fontawesome-solid-thumbs-up: Stärken
 
 ### 1. Hohe Anpassbarkeit
 Eine der größten Stärken von KDE Plasma ist seine außergewöhnliche Anpassbarkeit. Benutzer können nahezu jeden Aspekt ihrer Desktop-Umgebung anpassen, von Themen und Icons bis hin zu Widgets und Fensterverhaltensweisen. Diese Flexibilität ermöglicht es Benutzern, eine Arbeitsumgebung zu schaffen, die genau ihren Bedürfnissen und Vorlieben entspricht.
@@ -16,7 +16,7 @@ Trotz seiner visuellen Komplexität und Anpassbarkeit ist KDE Plasma überrasche
 ### 4. Integriertes Ökosystem
 KDE bietet ein umfangreiches Ökosystem an integrierten Anwendungen, die nahtlos mit der Plasma-Desktop-Umgebung zusammenarbeiten. Dieses Ökosystem umfasst alles von Office-Anwendungen bis hin zu Multimedia-Tools, was eine konsistente und integrierte Benutzererfahrung schafft.
 
-## Schwächen
+## :fontawesome-solid-thumbs-down: Schwächen
 
 ### 1. Überwältigende Anpassungsoptionen
 Die enorme Anpassbarkeit von KDE Plasma kann für neue oder weniger technisch versierte Benutzer überwältigend sein. Die Fülle an Optionen und Einstellungen kann es schwierig machen, die gewünschten Anpassungen vorzunehmen, ohne sich verloren zu fühlen.
