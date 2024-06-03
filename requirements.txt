@@ -1,6 +1,6 @@
 Babel==2.15.0
 build==1.2.1
-certifi==2024.2.2
+certifi==2024.6.2
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
