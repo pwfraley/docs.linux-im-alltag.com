@@ -48,7 +48,7 @@ plugins:
   - social:
       cards_layout: default/variant
       cards_layout_options:
-        background_image: images/social.jpg
+        background_image: images/social.png
   - blog:
       archive_date_format: MMMM yyyy
       pagination_per_page: 5
