@@ -1,7 +1,6 @@
-# Über uns
-
-## Linux im Alltag
+# Über Linux im Alltag
 
 ## Team
 
+## Mission
 
