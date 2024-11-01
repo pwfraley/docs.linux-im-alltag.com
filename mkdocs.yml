@@ -21,6 +21,7 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
   features:
+    - navigation.indexes
     - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
@@ -44,7 +45,10 @@ extra:
       name: GitHub
 plugins:
   - search
-  - blog
+  - blog:
+      archive_date_format: MMMM yyyy
+      pagination_per_page: 5
+      blog_toc: true
   - git-revision-date-localized:
       type: date
   - git-authors
