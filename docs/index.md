@@ -1,3 +1,7 @@
+---
+icon: material/home
+---
+
 # Willkommen bei der Linux im Alltag Dokumentation
 
 Hier dokumentiere ich meine "Opinionated" Meinung, was man als Grundlage braucht um Linux als Betriebssystem auf dem Computer im Alltag einzusetzen.

@@ -53,6 +53,7 @@ plugins:
       slide_effect: slide
       shadow: true
 markdown_extensions:
+  - meta
   - attr_list
   - admonition
   - md_in_html
@@ -77,8 +78,9 @@ markdown_extensions:
       alternate_style: true
 nav:
   - 'Home': index.md
-  - 'Linux Grundlagen':
-    - 'Start': linux/grundlagen/index.md
+  - 'Blog': blog/index.md
+  - 'Linux Grundlagen': 
+    - linux/grundlagen/index.md
     - 'Distributionen':
       - 'Was ist eine Distribution?': linux/grundlagen/distributionen/index.md
       - 'Fedora': linux/grundlagen/distributionen/fedora.md
@@ -89,30 +91,30 @@ nav:
       - 'KDE': linux/grundlagen/desktops/kde.md
       - 'XFCE': linux/grundlagen/desktops/xfce.md
     - 'Software':
-      - 'Start': linux/grundlagen/software/index.md
+      - linux/grundlagen/software/index.md
       - 'Pakete': linux/grundlagen/software/pakete.md
       - 'Flatpak': linux/grundlagen/software/flatpak.md
       - 'Snap': linux/grundlagen/software/snap.md
       - 'AppImage': linux/grundlagen/software/appimage.md
     - 'Hardware':
-      - 'Start': linux/grundlagen/hardware/index.md
+      - linux/grundlagen/hardware/index.md
   - 'Linux im Alltag - Arbeitsplatz':
     - 'Der LIA-Arbeitsplatz': lia-arbeitsplatz/index.md
     - 'Grundlagen':
-      - 'Start': lia-arbeitsplatz/grundlagen/index.md
+      - lia-arbeitsplatz/grundlagen/index.md
       - 'Fedora Workstation': lia-arbeitsplatz/grundlagen/fedora-workstation.md
       - 'Debian Gnome': lia-arbeitsplatz/grundlagen/debian.md
       - 'Gnome Desktop': lia-arbeitsplatz/grundlagen/gnome-desktop.md
       - 'Standard Software': lia-arbeitsplatz/grundlagen/standard-software.md
     - 'Rollen/Aufgaben':
-      - 'Start': lia-arbeitsplatz/rollen-aufgaben/index.md
+      - lia-arbeitsplatz/rollen-aufgaben/index.md
       - 'Software Entwicklung':
-        - 'Start': lia-arbeitsplatz/rollen-aufgaben/software-entwicklung/index.md
+        - lia-arbeitsplatz/rollen-aufgaben/software-entwicklung/index.md
       - 'Büroarbeit':
-        - 'Start': lia-arbeitsplatz/rollen-aufgaben/buero/index.md
+        - lia-arbeitsplatz/rollen-aufgaben/buero/index.md
       - 'Kreativität':
-        - 'Start': lia-arbeitsplatz/rollen-aufgaben/kreativitaet/index.md
+        - lia-arbeitsplatz/rollen-aufgaben/kreativitaet/index.md
       - 'Gaming':
-        - 'Start': lia-arbeitsplatz/rollen-aufgaben/gaming/index.md
+        - lia-arbeitsplatz/rollen-aufgaben/gaming/index.md
   - 'Über': about.md
 

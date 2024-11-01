@@ -1,2 +1,5 @@
-# Blog
+---
+icon: material/newspaper
+---
 
+# News
