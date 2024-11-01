@@ -10,7 +10,7 @@ categories:
 
 # Fedora Workstation 41 ist erschienen
 
-![Fedora 41](/images/news/fedora-41-705x400.png)
+![Fedora 41](/images/news/Fedora-Linux-41-Released.webp)
 
 Fedora Workstation 41 bringt eine Reihe spannender Neuerungen und Verbesserungen, die sowohl Entwickler als auch Endanwender ansprechen. Hier sind einige der Highlights dieser Version:
 <!-- more -->
