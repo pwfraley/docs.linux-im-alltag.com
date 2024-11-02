@@ -103,7 +103,7 @@ nav:
       - 'AppImage': linux/grundlagen/software/appimage.md
     - 'Hardware':
       - linux/grundlagen/hardware/index.md
-  - 'Linux im Alltag - Arbeitsplatz':
+  - 'LIA - Arbeitsplatz':
     - 'Der LIA-Arbeitsplatz': lia-arbeitsplatz/index.md
     - 'Grundlagen':
       - lia-arbeitsplatz/grundlagen/index.md
@@ -122,4 +122,3 @@ nav:
       - 'Gaming':
         - lia-arbeitsplatz/rollen-aufgaben/gaming/index.md
   - 'Über LIA': about.md
-
