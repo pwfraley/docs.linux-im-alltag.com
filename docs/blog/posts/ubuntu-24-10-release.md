@@ -11,7 +11,7 @@ description: Ubuntu 24.10 wurde offiziell veröffentlicht und bringt eine Vielza
 
 # Veröffentlichung von Ubuntu 24.10: Highlights und neue Funktionen
 
-![Ubuntu 24.10](/images/news/ubuntu-24.10-desktop.jpg)
+![Ubuntu 24.10](../../images/news/ubuntu-24.10-desktop.jpg)
 
 Ubuntu 24.10 wurde offiziell veröffentlicht und bringt eine Vielzahl neuer Funktionen und Verbesserungen für die beliebte Linux-Distribution. Hier sind einige der Highlights dieser neuen Version:
 <!-- more -->
