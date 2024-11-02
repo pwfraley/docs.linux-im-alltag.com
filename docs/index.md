@@ -14,13 +14,13 @@ Da unser Alltag von der Arbeit bestimmt wird, liegt der Schwerpunkt hier, aber a
 
 <div class="grid cards" markdown>
 
-- [__Linux Grundlagen__](linux/grundlagen/index.md)
+- [__:material-book: Linux Grundlagen__](linux/grundlagen/index.md)
 
     ---
 
     Hier lernst du die wichtigsten Grundlagen zu Linux.  Grundkenntnisse mit Windows oder Mac OS X werden vorrausgesetzt.
 
-- [__Linux im Alltag - Arbeitsplatz__](lia-arbeitsplatz/index.md)
+- [__:fontawesome-solid-desktop: Linux im Alltag - Arbeitsplatz__](lia-arbeitsplatz/index.md)
 
     ---
 
