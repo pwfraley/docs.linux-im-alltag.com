@@ -12,7 +12,7 @@ Hier sind die wichtigsten Grundlagen wie sich Linux von Windows oder Mac OS X un
 
     ---
 
-    Was ist eine Distribution und warum sollte es mich interessieren?.
+    Was ist eine Distribution und warum sollte es mich interessieren?
 
 - [__Desktops__](desktops/index.md)
 
