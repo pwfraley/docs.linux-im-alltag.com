@@ -45,8 +45,7 @@ extra:
       name: GitHub
 plugins:
   - search
-  - social:
-      cards_layout: default
+  - social
   - blog:
       archive_date_format: MMMM yyyy
       pagination_per_page: 5
