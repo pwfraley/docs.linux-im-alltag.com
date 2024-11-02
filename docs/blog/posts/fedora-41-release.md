@@ -6,6 +6,7 @@ categories:
   - Distributionen
   - Releases
   - Fedora
+description: Fedora Workstation 41 bringt eine Reihe spannender Neuerungen und Verbesserungen, die sowohl Entwickler als auch Endanwender ansprechen. Hier sind einige der Highlights dieser Version
 ---
 
 # Fedora Workstation 41 ist erschienen

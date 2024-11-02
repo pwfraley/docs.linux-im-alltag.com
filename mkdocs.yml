@@ -1,4 +1,4 @@
-site_name: Linux im Alltag - Dokumentation
+site_name: Linux im Alltag
 site_url: https://docs.linux-im-alltag.de/
 copyright: Copyright &copy; 2024 Patrick W. Fraley
 repo_url: https://github.com/pwfraley/docs.linux-im-alltag.com
@@ -7,7 +7,7 @@ theme:
   language: de
   icon: images/logo.svg
   logo: images/logo.svg
-  favicon: /images/logo.svg
+  favicon: images/logo.svg
   custom_dir: overrides
   palette:
     - scheme: slate
@@ -46,9 +46,7 @@ extra:
 plugins:
   - search
   - social:
-      cards_layout: default/variant
-      cards_layout_options:
-        background_image: images/social.png
+      cards_layout: default
   - blog:
       archive_date_format: MMMM yyyy
       pagination_per_page: 5

@@ -1,5 +1,7 @@
 ---
 icon: material/home
+title: "Willkommen bei der Linux im Alltag Dokumentation"
+description: "Hier erfahren Sie wie Sie sich Linux für die Nutzung im Alltag einrichten"
 ---
 
 # Willkommen bei der Linux im Alltag Dokumentation
